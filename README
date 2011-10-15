@@ -1,0 +1,4 @@
+Exemplos de AJAX no CakePHP:
+
+- Carregar apenas o conteúdo (view) de páginas em um elemento específico
+- Enviar formulários via AJAX e alimentar o conteúdo com o resultado (view)
