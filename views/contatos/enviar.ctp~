@@ -1,3 +1,0 @@
-<h3>Sucesso!</h3>
-
-<p>Sua mensagem foi enviada às <?php echo date('H:i:s') ?> com sucesso!</p>
